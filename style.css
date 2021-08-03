@@ -1,0 +1,17 @@
+body{
+    background-image: url(hgfhgf.jpg);
+    background-size: cover;
+    color: aliceblue;
+    font-style: italic ;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px dashed burlywood;
+    width: 400px;
+    height: 450px;
+}
+.name_of_objects, #result_object_name , #result_object_accuracy
+ { color: paleturquoise; }
